@@ -15,7 +15,7 @@ A Airbab app created with React JS
 <h2>Built With</h2>
 <ul>
   <li>React</li>
-  <li>MATERIAL-UI</li>F
+  <li>MATERIAL-UI</li>
   <li>CSS</li>
   <li>Firebase</li>
 </ul>
